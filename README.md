@@ -1,7 +1,7 @@
 # Content Solutions Bot
 >
 > [!IMPORTANT]\
-> Remember to read the License in the License file. Additionally please read the ContentLTD [ToS](https://contentltd.net) and [Privacy Policy](https://contentltd.net/privacy)
+> Remember to read the License in the License file. Additionally please read the ContentLTD [ToS](https://contentltd.net/terms) and [Privacy Policy](https://contentltd.net/privacy)
 >
 > 
 ## Overview

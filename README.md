@@ -85,7 +85,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 > [!IMPORTANT]\
 > All channel, user, and guild IDs have been removed from this repository for privacy and security reasons. Please make sure to configure these in your local **config.py** file.
->
+
 > [!WARNING]\
 > Token and link filtering files have been excluded from this repository for security purposes.
 
